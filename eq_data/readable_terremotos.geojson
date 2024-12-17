@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1734258920000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.14.1",
+        "count": 12
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.19,
+                "place": "8 km WSW of Dunnigan, CA",
+                "time": 1734258767410,
+                "updated": 1734258862920,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75103426",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75103426.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 74,
+                "net": "nc",
+                "code": "75103426",
+                "ids": ",nc75103426,",
+                "sources": ",nc,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.1311,
+                "rms": 0.05,
+                "gap": 231,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.2 - 8 km WSW of Dunnigan, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.051666259766,
+                    38.8530006408691,
+                    2.21000003814697
+                ]
+            },
+            "id": "nc75103426"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.96,
+                "place": "3 km ESE of Lake Henshaw, CA",
+                "time": 1734258684320,
+                "updated": 1734258815273,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002256",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002256.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 14,
+                "net": "ci",
+                "code": "41002256",
+                "ids": ",ci41002256,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 40,
+                "dmin": 0.02096,
+                "rms": 0.16,
+                "gap": 33,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.0 - 3 km ESE of Lake Henshaw, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7338333,
+                    33.234333,
+                    12.04
+                ]
+            },
+            "id": "ci41002256"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.3,
+                "place": "45 km S of Goldfield, Nevada",
+                "time": 1734258630764,
+                "updated": 1734258768181,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00889634",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00889634.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 26,
+                "net": "nn",
+                "code": "00889634",
+                "ids": ",nn00889634,",
+                "sources": ",nn,",
+                "types": ",origin,phase-data,",
+                "nst": 11,
+                "dmin": 0.048,
+                "rms": 0.4024,
+                "gap": 203.08999999999997,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.3 - 45 km S of Goldfield, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2002,
+                    37.3014,
+                    2.2
+                ]
+            },
+            "id": "nn00889634"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.79,
+                "place": "5 km SW of Volcano, Hawaii",
+                "time": 1734258562350,
+                "updated": 1734258735380,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74565917",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv74565917.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 49,
+                "net": "hv",
+                "code": "74565917",
+                "ids": ",hv74565917,",
+                "sources": ",hv,",
+                "types": ",origin,phase-data,",
+                "nst": 12,
+                "dmin": 0.004587,
+                "rms": 0.129999995,
+                "gap": 96,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.8 - 5 km SW of Volcano, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.264663696289,
+                    19.4026660919189,
+                    -0.129999995231628
+                ]
+            },
+            "id": "hv74565917"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.61,
+                "place": "2 km ESE of Lake Henshaw, CA",
+                "time": 1734258076560,
+                "updated": 1734258750660,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002248",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002248.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 40,
+                "net": "ci",
+                "code": "41002248",
+                "ids": ",ci41002248,",
+                "sources": ",ci,",
+                "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 85,
+                "dmin": 0.01504,
+                "rms": 0.18,
+                "gap": 14,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.6 - 2 km ESE of Lake Henshaw, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7411667,
+                    33.233,
+                    10.25
+                ]
+            },
+            "id": "ci41002248"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.6,
+                "place": "42 km SW of Tatitlek, Alaska",
+                "time": 1734258016104,
+                "updated": 1734258151094,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak024g3064ga",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak024g3064ga.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 39,
+                "net": "ak",
+                "code": "024g3064ga",
+                "ids": ",ak024g3064ga,",
+                "sources": ",ak,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.55,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.6 - 42 km SW of Tatitlek, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.193,
+                    60.5817,
+                    12.8
+                ]
+            },
+            "id": "ak024g3064ga"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.5,
+                "place": "24 km NNE of Yerington, Nevada",
+                "time": 1734257545525,
+                "updated": 1734257678868,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00889632",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00889632.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 35,
+                "net": "nn",
+                "code": "00889632",
+                "ids": ",nn00889632,",
+                "sources": ",nn,",
+                "types": ",origin,phase-data,",
+                "nst": 9,
+                "dmin": 0.254,
+                "rms": 0.1706,
+                "gap": 87.42999999999995,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.5 - 24 km NNE of Yerington, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.0239,
+                    39.1755,
+                    0
+                ]
+            },
+            "id": "nn00889632"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.73,
+                "place": "8 km WNW of Idyllwild, CA",
+                "time": 1734256865550,
+                "updated": 1734257130318,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002240",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002240.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 8,
+                "net": "ci",
+                "code": "41002240",
+                "ids": ",ci41002240,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 45,
+                "dmin": 0.0523,
+                "rms": 0.15,
+                "gap": 48,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.7 - 8 km WNW of Idyllwild, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.7958333,
+                    33.7811667,
+                    10.27
+                ]
+            },
+            "id": "ci41002240"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.15,
+                "place": "16 km ESE of Julian, CA",
+                "time": 1734256726220,
+                "updated": 1734257380820,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002232",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002232.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 20,
+                "net": "ci",
+                "code": "41002232",
+                "ids": ",ci41002232,",
+                "sources": ",ci,",
+                "types": ",focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 62,
+                "dmin": 0.0521,
+                "rms": 0.16,
+                "gap": 29,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.2 - 16 km ESE of Julian, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.45,
+                    33.0121667,
+                    11.28
+                ]
+            },
+            "id": "ci41002232"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "6 km N of Santiago Tepextla, Mexico",
+                "time": 1734256716109,
+                "updated": 1734257607040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nz1h",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000nz1h.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 385,
+                "net": "us",
+                "code": "7000nz1h",
+                "ids": ",us7000nz1h,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": 77,
+                "dmin": 1.163,
+                "rms": 0.79,
+                "gap": 217,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.0 - 6 km N of Santiago Tepextla, Mexico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4356,
+                    16.4004,
+                    10
+                ]
+            },
+            "id": "us7000nz1h"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.1,
+                "place": "10 km E of Pala, CA",
+                "time": 1734255945470,
+                "updated": 1734256296948,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002224",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002224.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 19,
+                "net": "ci",
+                "code": "41002224",
+                "ids": ",ci41002224,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 59,
+                "dmin": 0.05616,
+                "rms": 0.19,
+                "gap": 21,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.1 - 10 km E of Pala, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9743333,
+                    33.36,
+                    5.77
+                ]
+            },
+            "id": "ci41002224"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.98,
+                "place": "9 km E of Pala, CA",
+                "time": 1734255908150,
+                "updated": 1734256187803,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41002216",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci41002216.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 60,
+                "net": "ci",
+                "code": "41002216",
+                "ids": ",ci41002216,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 94,
+                "dmin": 0.05706,
+                "rms": 0.24,
+                "gap": 32,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.0 - 9 km E of Pala, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.9771667,
+                    33.3548333,
+                    4.28
+                ]
+            },
+            "id": "ci41002216"
+        }
+    ],
+    "bbox": [
+        -155.26466369629,
+        16.4004,
+        -0.12999999523163,
+        -98.4356,
+        60.5817,
+        12.8
+    ]
+}
