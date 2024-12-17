@@ -5,7 +5,6 @@ import requests
 # Hace una llamada a la API y guarda la respuesta.
 url = "https://hacker-news.firebaseio.com/v0/topstories.json"
 r = requests.get(url)
-print(f'Status code: {r.status_code}')
 
 # Procesa la información sobre cada envío.
 submission_ids = r.json()
@@ -52,4 +51,4 @@ fig.update_layout(
 
 fig.update_traces(marker_color='SteelBlue', marker_opacity=0.6)
 
-#fig.show()
+fig.show()

@@ -55,7 +55,7 @@ ax.plot(dates_dv,highs_dv, color='blue', alpha=0.5)
 ax.fill_between(dates_dv,highs_sitka,highs_dv,facecolor='blue',alpha=0.1)
 
 #Da formato al trazado.
-ax.set_title('Daily high and low temperatures Sitka 2018', fontsize=24)
+ax.set_title('Daily high and low temperatures Sitka, Death Valley 2018', fontsize=24)
 ax.set_xlabel('',fontsize=16)
 fig.autofmt_xdate()
 ax.set_ylabel('Temperature (F)', fontsize=16)

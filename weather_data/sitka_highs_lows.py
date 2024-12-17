@@ -23,16 +23,10 @@ for row in reader:
             dates.append(current_date)
             lows.append(low)
         else:
-            print(f"Temperatura faltante en la fecha: {current_date}")
+            pass
     except ValueError as e:
         print(f"Error procesando la fila: {row}, error: {e}")
-'''
-#Extraer las temperaturas máximas.
-highs = []
-for row in reader:
-    high = int(row[5])
-    highs.append(high)
-'''
+
 
 #Traza las temperaturas máximas.
 plt.style.use('seaborn-v0_8')

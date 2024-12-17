@@ -40,7 +40,7 @@ ax.plot(dates,sitka_rain, color='red', alpha=0.5)
 #ax.fill_between(dates,sitka_rain,valley,facecolor='blue',alpha=0.1)
 
 #Da formato al trazado.
-ax.set_title('Daily high and low temperatures death valley 2021', fontsize=24)
+ax.set_title('Sitka Rains', fontsize=24)
 ax.set_xlabel('',fontsize=16)
 fig.autofmt_xdate()
 ax.set_ylabel('Temperature (F)', fontsize=16)
