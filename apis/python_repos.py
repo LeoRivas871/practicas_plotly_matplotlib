@@ -5,7 +5,7 @@ import requests
 
 question = 'Que lenguaje quieres consultar?'
 print(question)
-response = input('python, javascript, ruby, c, java, perl, haskell, go: ')
+response = 'python'
 
 url = f'https://api.github.com/search/repositories?q=language:{response}+sort:stars+stars:>10000'
 

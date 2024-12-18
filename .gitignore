@@ -7,3 +7,4 @@ squares_plot.png
 Lib/
 Scripts/
 etc/
+apis/__pycache__/
